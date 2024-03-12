@@ -59,3 +59,5 @@
 <img src="https://raw.githubusercontent.com/pengode-handal/pengode-handal/output/snake.svg" alt="Snake animation" />
 
 ###
+
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pengode-handal&bg_color=000000&color=ffffff&line=ffccfc&point=ffc7c7&area=true&hide_border=true)](https://github.com/pengode-handal)
